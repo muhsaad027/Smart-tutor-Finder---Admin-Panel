@@ -1,0 +1,40 @@
+role of admin- login tutors4.bbcproducts.com/admin
+1. super admin
+2. editor admin
+3. monitor admin
+Dashboard
+-SIte Staticsc
+Users
+Tutors
+Total Earning
+- Job Static
+Total job
+on going job
+cancle jobs
+complete jobs
+New Registeration
+table;
+tutor name photo tutor id (Actiate)
+Tutors coloum from clone uber
+Reviews
+Student Feedback for tutors
+std name and id and (view)
+Reviews
+Tutor Feedback for student
+std name and id and (view)
+
+
+quard operations
+
+job column
+
+Restricted Area
+
+God's View
+utitlity:
+city
+
+send notifications
+
+db backup
+
